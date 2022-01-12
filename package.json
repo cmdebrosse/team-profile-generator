@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Dynamically generates profile cards in an HTML based on command line prompts",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmdebrosse/team-profile-generator.git"
+  },
+  "keywords": [
+    "profile",
+    "generator"
+  ],
+  "author": "Chuck DeBrosse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmdebrosse/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/cmdebrosse/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
+  }
+}
