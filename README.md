@@ -11,6 +11,9 @@ When you successfully complete a run through the app, your finished HTML product
 
 <img width="1440" alt="Screen Shot 2022-01-16 at 3 39 47 PM" src="https://user-images.githubusercontent.com/92185857/149677267-349a94d2-6781-4680-9713-d36af301a30c.png">
 
+For a walkthrough demonstration follow the link to the video below:
+https://watch.screencastify.com/v/lsK2svC7FKdX3vey8z5c
+
 
   ## Table of Contents
 
