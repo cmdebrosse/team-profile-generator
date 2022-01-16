@@ -9,8 +9,6 @@
   ## Table of Contents
 
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
   - [Contact](#contact)
 
@@ -29,16 +27,6 @@
 
   ---
 
-  ## Usage
-  
-
-  ---
-
-  ## Credits
-  
-
-  ---
-
   ## License
   ![badge](https://img.shields.io/badge/MIT-license-blue)
 
@@ -48,3 +36,4 @@
   GitHub account: github.com/cmdebrosse
 
   email: cmdebrosse@outlook.com
+  
